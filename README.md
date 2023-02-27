@@ -10,3 +10,4 @@ This is the website for Horiseon, SEO experts. This site showcases services prov
 - The title of the webpage has been updated to be more descriptive and accurate to the website. 
 
 ### Deployment Link
+https://jmichaeldavis.github.io/hw1/
